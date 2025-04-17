@@ -38,4 +38,10 @@ The AI:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
+## Author
+
 Created by: Sultan Alnuaimi
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for detail.
