@@ -12,10 +12,10 @@ Howdy! This is a Java based terminal game that tests your reaction time against 
 5. Win the most rounds, you win the game.
 
 Beware:
-- Drawing too early results in a **false start loss**.
-- Drawing too late? You get **blasted by the AI**.
+- Drawing too early results in a **false start loss**. You shot the dirt.
+- Drawing too late? It's too late for you. You get **blasted by the AI**. 
 
-  ## 🧠 AI Behavior
+## 🧠 AI Behavior
 
 The AI:
 - Adjusts its speed based on your last 10 valid reaction times.
@@ -24,7 +24,7 @@ The AI:
 
 ---
 
-## 💻 Files Overview
+## 📁 Files Overview
 
 - `Main.java` – Entry point that starts the game.
 - `ReactionGame.java` – Manages the game rounds and scoring.
@@ -32,7 +32,7 @@ The AI:
 
 ---
 
-## 🚀 How to Run
+## 🛫 How to Run
 
 1. Clone the repository:
    ```bash
